@@ -5,4 +5,4 @@ People use them as interview prep, company training, university coursework, prac
 - 2023 in javascript.
 - 2024 in java.
 
-Aiming to do as much as possible, university work often takes priority over the completion.
+Aiming to do as much as possible, university work often takes priority over aoc completion.
