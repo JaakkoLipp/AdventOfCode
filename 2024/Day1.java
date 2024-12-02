@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Aoc1 {
+public class Day1 {
     public static void main(String[] args) {
         ArrayList<Integer> L = new ArrayList<Integer>();
         ArrayList<Integer> R = new ArrayList<Integer>();
